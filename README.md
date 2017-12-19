@@ -1,3 +1,3 @@
 # CS205
 
-This contains solutions of All the Assignment problems  of cs205 lab.
+This Repository contains solutions and problem statements of all the Assignment problems -- cs205 lab in IIT Patna.
